@@ -9,4 +9,3 @@ queue: 'default'
 
 steps:
 - script: 'echo  ''##vso[build.updatebuildnumber]123'' 
-  displayName: 'Command Line Script'
