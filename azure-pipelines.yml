@@ -8,4 +8,4 @@ queue: 'default'
 #  system.debug: 'true'
 
 steps:
-- script: 'echo  ''##vso[build.updatebuildnumber]123'' 
+- script: 'echo  "##vso[build.updatebuildnumber]123"' 
